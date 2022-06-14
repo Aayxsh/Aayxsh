@@ -6,7 +6,7 @@ AI/ML and WebDev Enthusiast.
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [aayushanshul007@gmail.com](mailto:aayushanshul007@gmail.com )
-* 🧠  I'm learning Discrete Math, Python, and C
+* 🧠  I'm learning C++, Python, and preparing mentally for Discrete Math.
 * ⚡  Ich mag Pizza
 
 ### Skills

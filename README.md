@@ -1,7 +1,7 @@
 Hi 👋 My name is Aayush Anshul
 ==============================
 
-AI/ML and WebDev Enthusiast.
+AI/ML and Data Engineering Enthusiast.
 ----------------------------
 
 * 🌍  I'm based in Chennai

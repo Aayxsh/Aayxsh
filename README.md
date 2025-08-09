@@ -4,7 +4,7 @@ Hi 👋 My name is Aayush Anshul
 AI/ML and Data Engineering Enthusiast.
 ----------------------------
 
-* 🌍  I'm based in Chennai
+* 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [aayushanshul007@gmail.com](mailto:aayushanshul007@gmail.com )
 * 🧠  I'm always learning something new!
 
